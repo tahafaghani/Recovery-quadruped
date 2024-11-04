@@ -18,7 +18,7 @@ Information about this work's locomotion-related tasks in Isaac Lab is available
 
 ### performance ###
 <p align="center">
-  <img src="https://github.com/tahafaghani/Recovery-quadruped/blob/main/recovery_upside.gif" width="45%" alt="Segway Model"/>
+  <img src="https://github.com/tahafaghani/Recovery-quadruped/blob/main/rl_recovery/recovery_upside.gif" width="45%" alt="Segway Model"/>
 </p>
 
 
@@ -66,7 +66,7 @@ Information about this work's locomotion-related tasks in Isaac Lab is available
     - Other runs/model iteration can be selected by setting `load_run` and `checkpoint` in the train config.
 
 <p align="center">
-  <img src="https://github.com/tahafaghani/Recovery-quadruped/blob/main/After_fall.gif" width="45%" alt="Segway Model"/>
+  <img src="https://github.com/tahafaghani/Recovery-quadruped/blob/main/rl_recovery/After_fall.gif" width="45%" alt="Segway Model"/>
 </p>
 
 ### Adding a new environment ###
